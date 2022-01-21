@@ -13,3 +13,5 @@ http://localhost:9876/swagger-ui.html
 
 ## Algumas considerações
 O Swagger foi utilizado apenas para facilitar a equipe testar (bem como o docker), meu intuito não foi fazer uma documentação bonitinha. Qualquer dúvida ou problema só mandar um email ou  um WhatsApp pra mim, ou uma mensagem do Linkedin. É importante rodar no docker para não dar nenhum tipo de incopatibilidade a respeito de ambiente/java/maven, para garantir a integridade da API. Enfim, #SEXTOU, tô indo nessa.
+
+EDIT: Os testes foram feitos para  o controller para pegar uma grande cobertura de código.
