@@ -1,0 +1,10 @@
+version: "3.7"
+services:    
+    api:
+        image: api-image
+        build: "./api"
+        ports: [9876:8090]
+        container_name: api-container
+        volumes: 
+            - "./api:/home/spring/app"
+        
